@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>mdi_edit.png</file>
+        <file>mdi_add_circle_outline.png</file>
+        <file>NewRow.qml</file>
+        <file>mainView.qml</file>
+        <file>mdi_keyboard_backspace.png</file>
+    </qresource>
+</RCC>
